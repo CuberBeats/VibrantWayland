@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=VibrantWayland
+Comment=Adjust Display Saturation and Gamma under KWin Wayland
+Exec=vibrantwayland
+Icon=preferences-desktop-display
+Terminal=false
+StartupNotify=false
+Categories=Utility;Settings;HardwareSettings;
