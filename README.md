@@ -65,8 +65,8 @@ vibrantwayland
 Use the **Target Display Output** dropdown to select which connected monitor you want to adjust. On single-monitor setups this will already be selected automatically.
 
 ### Adjusting Saturation
-The **Digital Vibrancy (Saturation)** slider controls colour intensity:
-- `1.0` is the default — natural, unmodified colour
+The **Digital Vibrancy (Saturation)** slider controls color intensity:
+- `1.0` is the default — natural, unmodified color
 - Below `1.0` moves toward greyscale
 - Above `1.0` increases vividness, up to `4.0` (400%)
 
@@ -79,7 +79,7 @@ The **Contrast (Gamma Curve)** slider controls the brightness of midtones:
 - Above `1.0` brightens midtones, softening contrast
 
 ### Applying Settings
-Click **Apply Settings** to push the current values to your display. Changes take effect immediately via KWin's colour management pipeline.
+Click **Apply Settings** to push the current values to your display. Changes take effect immediately via KWin's color management pipeline.
 
 ### Selecting Color Profile
 Once you go to Display Settings, change the Color Profile to **ICC profile**, where the new profile with the updated settings will automatically be filled in. Apply the changes.
